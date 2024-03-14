@@ -47,6 +47,14 @@ as follows:
 learning algorithms tailored for multi-class
 classification to accurately predict cirrhosis
 survival rate.
-2. To assess the predictive performance of different
+2. To assess the predictive performance of different algorithms
+
+   The dataset used in our study originates from the
+Mayo Clinic experiment conducted between 1974
+and 1984, focusing on primary biliary cirrhosis
+(PBC) of the liver. The shape of the dataset is (7905,
+20) and contains demographic information, clinical
+features, and laboratory measurements. We obtained
+the dataset from Kaggle.
 algorithms, providing insights into their
 strengths and limitations.
